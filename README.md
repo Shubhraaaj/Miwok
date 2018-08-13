@@ -16,6 +16,11 @@ To build this project, use the "gradlew build" command or use "Import Project" i
 If your gradle version is mismatched then you need to update your gradle version accordingly.
 Some libraries used in the project might have become obselete. So, Update them if required.<p>
 
+<h2>App Image Samples</h2>
+<p align="center">
+    <img src ="https://github.com/Shubhraaaj/Miwok/blob/master/app/src/main/res/drawable-hdpi/miwok.png" />
+ </p>
+ 
 <h2> License </h2>
 <p> Copyright 2016 The Android Open Source Project, Inc.<br>
 Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. 
